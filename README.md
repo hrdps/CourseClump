@@ -1,6 +1,11 @@
-CourseClump
+# CourseClump
 
-Highlights
+# Tech Stack Used
+1. Node.js and Express.Js:- For creating the backend
+2. MongoDB database:- For storing the data
+3. ReactJS, ChakraUI, Redux, React-router:- For creating the frontend
+
+# Highlights
 1. Responsive Design: Seamlessly optimized for various devices and screen sizes.
 2. Admin Panel: Exclusive access for authorized administrators to manage all aspects securely.
 3. Course Management: Efficiently add, update, and delete courses.
